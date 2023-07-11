@@ -49,7 +49,7 @@ Ekibimizle beraber mobil platformlar için hazırladığımız "Bird 97" oyunumu
 - U97 ekibi olarak, yaşanan talihsizliklerden dolayı oyun geliştirmeye baştan başladık. Bu yüzden geliştirdiğimiz her iki oyun projeside 1 Sprint'ten oluşacaktır. (Ceza nedeni ile takımca sprint değerlendirmesinden puan alamıyoruz ancak size mahçup olmamak adına bir adet her iki projeyede sprint planı ekledik.)
 
   ## Not
-- Akademiden tarafından çalıştıktan sonra; hesap makinesi, su doku, yılan oyunu gibi projeler ile mezun olunabileceği söylenmişti. U97 ekibi olarak bu kısa sürede 2 adet oyun çıkarmayı zorda olsa başardık. Bu yüzden tüm takımı kutluyoruz.
+- Akademiden tarafından çalıştıktan sonra; hesap makinesi, su doku, yılan oyunu gibi projeler ile mezun olunabileceği söylenmişti. U97 ekibi olarak bu kısa sürede 2 adet oyun çıkarmayı zorda olsa başardık. Bu yüzden tüm takımı kutluyoruz. Bu repoda 2D Flappy Bird, klonu projemiz olan "Bird 97'yi" incelemeye başlayabilirsiniz.
 
 ---
 
