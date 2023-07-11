@@ -50,3 +50,10 @@ Ekibimizle beraber mobil platformlar için hazırladığımız "Bird 97" oyunumu
 
   ## Not
 - Akademiden çalıştıktan sonra; hesap makinesi, su doku, yılan oyunu gibi projeler ile mezun olunabileceği söylenmişti. U97 ekibi olarak bu kısa sürede 2 adet oyun çıkarmayı zorda olsa başardık. Bu yüzden tüm takımı kutluyoruz.
+
+---
+
+# Sprint Planı
+
+- **Sprint Notları**: Takım olarak proje yönetiminde "Notion" kullanımına kararverilmiştir. Yaşanan talihsizlikler nedeni ile projeye baştan başlanması nedeni ile proje tamamlanması adına tüm adımlar tek sprint'te toplanmıştır. Öncelikli olarak yeni projenin ismi, teması ve türünün ne olacağına karar verilmiştir. Proje ismi "Bird97" olup süre nedeni ile "Flappy Bird" klonu bir proje olarak planlanmıştır. Gene süre nedeni ile assetler hazır olarak kullanılmıştır. Yaklaşık 4-5 günlük bir süre içinde proje kodlarının yazmı gerçekleştirllmiştir. Ardından animasyonlar hazırlanarak görseller ile birleştirilmiştir. Ayrıca; kodlar ile assetler birbirine bağlanarak projenin bir bütün içinde çalışması sağlanmıştır. Projenin menüsü hazırlanmış ve linkler ile bağlanarak akademi youtube kanalına ve proje repomuza yönlendirilmiştir. Son olarak proje test edilmiş ve bitirilmiştir. Proje yaklaşık olarak 8 gün gibi bir sürede tamamlanmıştır. Bu kadar acele edilmesinin nedeni süre kısıtı ve aynı zamanda 2. bir oyun projesi olan "Lego97" isimli projeyi gene aynı zaman diliminde başlayıp geliştirmeyi hedeflemmemizdir.
+- Akademideki diğer bursiyerler tarafından gelen yoğun eleştiriler ve söylemler nedeni ile "Kısa zamanda çok İş" prensibini benimseyerek 2 proje geliştirmeyi hedefledik. Bu sayede zaman az da olsa ekipetki herkesin uyun içinde kendilerine vererek çalıştıklarında çok iyi işler ortaya çıkarabileceklerini kanıtlamaktır.
