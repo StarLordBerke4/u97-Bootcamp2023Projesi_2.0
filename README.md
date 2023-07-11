@@ -28,7 +28,7 @@ Bird 97 oyunumuz; "Flappy Bird" assetleri kullanılarak, bootcamp 2023 'ten tak�
 
 Ekibimizle beraber mobil platformlar için hazırladığımız "Bird 97" oyunumuz ile boş zamanlarınızı değerlendirebilir ve eğlenebilirsiniz.
 
-- **Oyunun Amacı**: Ana karakterimiz "bird (kuş)" ile önümeze çıkan engellerin arasından geçerek en yüksek skoru kazanmak hedeflenmektedir.
+- **Oyunun Amacı**: Ana karakterimiz "bird (kuş)" ile önümüze çıkan engellerin arasından geçerek en yüksek skoru kazanmak hedeflenmektedir.
 - **Oynanış**: Karşınıza çıkan engeller arasından geçerek parkurları en yüksek skoru elde ederek tamamlamaya çalışacaksınız. Replay "Butonu" sayesinde dilediğiniz kez oyuna sıfırdan başlayabilirsiniz.
 
 ## Ürün Özellikleri
