@@ -87,6 +87,8 @@ Sprint planı sonunda mobil platformlar için unity ile hazırladığımız oyun
 
 Ayrıca; unity oyun projemiz "Bird 97'nin" tamamlanmış halini ve oyun içi detayları daha net görmek isterseniz oyun içi oynanış mekaniklerini gösterdiğimiz tanıtım videomuzu izlemeyi unutmayın!
 
+https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/assets/76530359/8ca3e22e-2c2c-45a9-8280-3d8e64037681
+
 https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/assets/76530359/2d4b0059-bb26-4d16-80b9-bafc595aeb85
 
 - **Sprint Review**:"Bird 97" isimli unity oyun projemizde tüm ekip arkadaşlarımız üzerlerine düşen görevleri yerine getirerek ürünün ortaya çıkmasına katkı sağladılar. Sıfırdan başladığımız projeyi ekip çalışması ile tamamlamış bulunmaktayız. Umarım oyundan keyif alırsınız. 
