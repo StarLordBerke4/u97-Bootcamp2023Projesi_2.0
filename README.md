@@ -40,7 +40,7 @@ Ekibimizle beraber mobil platformlar için hazırladığımız "Bird 97" oyunumu
 - Oyun Tutkunları
 - Eğlence ve Adrenalin ile Kavrulanlar
 - İçerik üreticileri ve Yayıncılar
-- Strateji Türü Aşıkları 
+- Platform Türü Aşıkları 
 - Her Yaştan Oyuncular
 
 ## Juriye Not
