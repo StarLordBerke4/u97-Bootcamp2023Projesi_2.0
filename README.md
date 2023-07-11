@@ -84,3 +84,21 @@ Sprint planı sonunda mobil platformlar için unity ile hazırladığımız oyun
 ![Screenshot 4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/4.png)
 
 ![Screenshot 5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/5.png)
+
+- **Sprint Review**:"Bird 97" isimli unity oyun projemizde tüm ekip arkadaşlarımız üzerlerine düşen görevleri yerine getirerek ürünün ortaya çıkmasına katkı sağladılar. Sıfırdan başladığımız projeyi ekip çalışması ile tamamlamış bulunmaktayız. Umarım oyundan keyif alırsınız. 
+
+- **Sprint Review Katılımcıları**: Berke Mert Öztürk, İclal Gül, Mustafa Orhan, Gizem Dinç, Cihan Yavuz Taş
+
+- **Sprint Retrospective:**
+-  Proje ismi, teması ve platformu ekipçe kararlaştırılarak; uygun assetlerin seçimi, animasyonların hazırlanması ve kodların yazımı gerçekleştirildi. Gerekli kontroller yapılarak kodlar ve assetler birbirine bağlanarak proje ortaya çıktı.
+-  Ürün içinde karşılaşılabilecek sorunlara çözüm bulmak adına yoğunca test sürecinden geçildi. Yazılan kodlar ve Assetlerin uyumu gözden geçirilerek kontrol edildi.
+-  Son olarak; github reposuna proje yönetimi sürecinde kullanılan tüm materyeller eklenerek sprint'lerin yer aldığı readme dosyası güncellendi. Repo içerisinde proje yönetimi mataryelleri "Proje Yönetimi" klasörü altında toplanmıştır.
+-  Ayrıca; oyun dosyaları github reposuna eklenerek "Proje Dosyaları" klasörü altında yer almaktadır.
+
+## Not: 
+Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Bird 97'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
+
+---
+
+# Son Söz
+Bu sene bu güzel eğitim programına bizi kabul ettiklerinden dolayı "Google Oyun ve Uygulama Akademisine" teşekür ederiz. Ayrıca devletimizin önemli kurumları olan , TC Sanayi ve Teknoloji Bakanlığı, TC Cumhurbaşkanlığı İletişim Ofisi, T3 Girişimcili Vakfına katkılarından dolayı minnettarız. Akademi çatısı altında yer alan tüm eğitmenlerimize bu süreçte bizimle oldukları ve yol gösterdiklerinden dolayı teşşekür ederiz. Akademi bünyesinde yer alan tüm kordinatörler, bootcamp sürecinde yanımızda olan asistanlar ve akademi destek hattındaki tüm çalışan herkese çabalarından dolayı teşşekür ederiz. Program sürecinde sağolsunlar tüm sorunlara kısa sürede çözüm bulduk. Son olarak; Oyun ve Uygulama Akademisinde olmaktan çok mutluyuz hem eğlendik hem öğrendik. Kimi zaman güldük , kimi zaman üzldük ama çok güzel bir süreç geçirdik. Yeni eğitimlerde görüşmek için heyecanlıyız. İnşallah burdaki ekip arkadaşlarımız yada akademideki diğer bursiyer arkadaşlarımız ile oyun şirketi (oyun stütyosu) kurarak iyi yerlere gelmek nasip olur. Yeni eğitimlerde görüşmek üzere!
