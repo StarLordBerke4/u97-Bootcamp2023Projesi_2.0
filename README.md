@@ -49,7 +49,7 @@ Ekibimizle beraber mobil platformlar için hazırladığımız "Bird 97" oyunumu
 - U97 ekibi olarak, yaşanan talihsizliklerden dolayı oyun geliştirmeye baştan başladık. Bu yüzden geliştirdiğimiz her iki oyun projeside 1 Sprint'ten oluşacaktır. (Ceza nedeni ile takımca sprint değerlendirmesinden puan alamıyoruz ancak size mahçup olmamak adına bir adet her iki projeyede sprint planı ekledik.)
 
   ## Not
-- Akademiden çalıştıktan sonra; hesap makinesi, su doku, yılan oyunu gibi projeler ile mezun olunabileceği söylenmişti. U97 ekibi olarak bu kısa sürede 2 adet oyun çıkarmayı zorda olsa başardık. Bu yüzden tüm takımı kutluyoruz.
+- Akademiden tarafından çalıştıktan sonra; hesap makinesi, su doku, yılan oyunu gibi projeler ile mezun olunabileceği söylenmişti. U97 ekibi olarak bu kısa sürede 2 adet oyun çıkarmayı zorda olsa başardık. Bu yüzden tüm takımı kutluyoruz.
 
 ---
 
@@ -73,3 +73,14 @@ Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "No
 - **Sprint Analizi**: Sprint Analizi Ekran Görüntüleri:
 
 - **Ürün Durumu**: Ekran Görüntüleri:
+Sprint planı sonunda mobil platformlar için unity ile hazırladığımız oyun projemiz olan "Bird 97" isimli oyunumuzu tamamladık.
+
+![Screenshot 1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/1.png)
+
+![Screenshot 2](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/2.png)
+
+![Screenshot 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/3.png)
+
+![Screenshot 4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/4.png)
+
+![Screenshot 5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/5.png)
