@@ -85,6 +85,8 @@ Sprint planı sonunda mobil platformlar için unity ile hazırladığımız oyun
 
 ![Screenshot 5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/5.png)
 
+Ayrıca; unity oyun projemiz "Bird 97'nin" tamamlanmış halini ve oyun içi detayları daha net görmek isterseniz oyun içi oynanış mekaniklerini gösterdiğimiz tanıtım videomuzu izlemeyi unutmayın!
+
 - **Sprint Review**:"Bird 97" isimli unity oyun projemizde tüm ekip arkadaşlarımız üzerlerine düşen görevleri yerine getirerek ürünün ortaya çıkmasına katkı sağladılar. Sıfırdan başladığımız projeyi ekip çalışması ile tamamlamış bulunmaktayız. Umarım oyundan keyif alırsınız. 
 
 - **Sprint Review Katılımcıları**: Berke Mert Öztürk, İclal Gül, Mustafa Orhan, Gizem Dinç, Cihan Yavuz Taş
