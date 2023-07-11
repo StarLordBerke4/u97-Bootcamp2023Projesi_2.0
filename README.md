@@ -5,7 +5,7 @@
 
 Takım Unity u97
 
-<img align="right" width="250" height="200" src="(https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/Bird97.png)">
+<img align="right" width="250" height="200" src="https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/%C4%B0mages/Bird97.png">
 
 ## Product Backlog URL
 
