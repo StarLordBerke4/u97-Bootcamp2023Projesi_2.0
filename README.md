@@ -52,7 +52,7 @@ Ekibimizle beraber mobil platformlar için hazırladığımız "Bird 97" oyunumu
 - Akademiden tarafından çalıştıktan sonra; hesap makinesi, su doku, yılan oyunu gibi projeler ile mezun olunabileceği söylenmişti. U97 ekibi olarak bu kısa sürede 2 adet oyun çıkarmayı zorda olsa başardık. Bu yüzden tüm takımı kutluyoruz. Bu repoda 2D Flappy Bird, klonu projemiz olan "Bird 97'yi" incelemeye başlayabilirsiniz.
 
 - Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Bird 97'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
-https://drive.google.com/file/d/18aFWdhTU0H1WgUGsA16k6uH3urSxPI8U/view?usp=sharing
+[Google Drive Linki (Projeyi İndirebilirsiniz)](https://drive.google.com/file/d/18aFWdhTU0H1WgUGsA16k6uH3urSxPI8U/view?usp=sharing)
 
 
 ---
@@ -73,8 +73,19 @@ https://drive.google.com/file/d/18aFWdhTU0H1WgUGsA16k6uH3urSxPI8U/view?usp=shari
 Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Done" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları:
+![Sprint_1](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/Sprint%20Plan%C4%B1/Sprint1.png)
+
+![Sprint_2](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/Sprint%20Plan%C4%B1/Sprint2.png)
+
+![Sprint 3](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/Sprint%20Plan%C4%B1/Sprint3.png)
+
+![Sprint_4](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/Sprint%20Plan%C4%B1/Sprint4.png)
+
+![Sprint_5](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/Sprint%20Plan%C4%B1/Sprint5.png)
   
 - **Sprint Analizi**: Sprint Analizi Ekran Görüntüleri:
+
+![Sprint1 Analiz](https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/blob/main/Proje%20Y%C3%B6netimi/Sprint%20Plan%C4%B1/Sprint_Analiz_G%C3%B6rseli.png)
 
 - **Ürün Durumu**: Ekran Görüntüleri:
 Sprint planı sonunda mobil platformlar için unity ile hazırladığımız oyun projemiz olan "Bird 97" isimli oyunumuzu tamamladık.
@@ -107,7 +118,7 @@ https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/assets/76530359/2d
 
 ## Not: 
 Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Bird 97'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
-https://drive.google.com/file/d/18aFWdhTU0H1WgUGsA16k6uH3urSxPI8U/view?usp=sharing
+[Google Drive Linki (Projeyi İndirebilirsiniz)](https://drive.google.com/file/d/18aFWdhTU0H1WgUGsA16k6uH3urSxPI8U/view?usp=sharing)
 
 ---
 
