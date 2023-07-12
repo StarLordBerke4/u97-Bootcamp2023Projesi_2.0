@@ -51,6 +51,10 @@ Ekibimizle beraber mobil platformlar için hazırladığımız "Bird 97" oyunumu
   ## Not
 - Akademiden tarafından çalıştıktan sonra; hesap makinesi, su doku, yılan oyunu gibi projeler ile mezun olunabileceği söylenmişti. U97 ekibi olarak bu kısa sürede 2 adet oyun çıkarmayı zorda olsa başardık. Bu yüzden tüm takımı kutluyoruz. Bu repoda 2D Flappy Bird, klonu projemiz olan "Bird 97'yi" incelemeye başlayabilirsiniz.
 
+- Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Bird 97'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
+https://drive.google.com/file/d/18aFWdhTU0H1WgUGsA16k6uH3urSxPI8U/view?usp=sharing
+
+
 ---
 
 # Sprint Planı
