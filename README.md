@@ -103,6 +103,7 @@ https://github.com/StarLordBerke4/u97-Bootcamp2023Projesi_2.0/assets/76530359/2d
 
 ## Not: 
 Dosya boyutu nedeni ile github'a büyük dosyaları yükleyemedik. Bu yüzden ayrıca, oyun projemiz "Bird 97'yi" Google Drive'a yükledik. Projemizi Drive üzerinden indirebilirsiniz:
+https://drive.google.com/file/d/18aFWdhTU0H1WgUGsA16k6uH3urSxPI8U/view?usp=sharing
 
 ---
 
