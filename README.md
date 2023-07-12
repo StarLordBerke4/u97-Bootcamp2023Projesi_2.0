@@ -9,7 +9,7 @@ Takım Unity u97
 
 ## Product Backlog URL
 
-[U97 Team Notion Backlog Board]
+[U97 Team Notion Backlog Board](https://www.notion.so/1d3ce49b63c241cc9c3c782e4b00a592?v=f2277aa6271444dd94a2532886c35fc6&pvs=4)
 
 # Ürün İle İlgili Bilgiler
 
